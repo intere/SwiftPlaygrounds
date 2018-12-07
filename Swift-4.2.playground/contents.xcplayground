@@ -5,5 +5,6 @@
         <page name='Inspect'/>
         <page name='Operators'/>
         <page name='Assumptions'/>
+        <page name='HTML to Attributed String'/>
     </pages>
 </playground>
